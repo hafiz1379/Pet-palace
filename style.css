@@ -41,3 +41,8 @@
 .item a:hover {
     color: #e34f4f;
 }
+
+.header-section {
+    background-color: var(--color01);
+    height: 500px;
+}
