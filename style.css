@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: azure;
+}
+
+.heasder-logo {
+  height: 100px;
+}
+
+.header-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+}
+
+.items {
+  display: flex;
+  list-style-type: none;
+}
+
+.item {
+  margin: 5px;
+  padding: 5px;
+}
+
+.item a {
+  text-decoration: none;
+}
