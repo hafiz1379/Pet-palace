@@ -1,14 +1,17 @@
 :root {
     --color01:rgb(252, 248, 233);
 }
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.header {
-  background-color: var(--color01);
+@media (min-width: 768px) {
+
+  .header {
+    background-color: var(--color01);
 }
 
 .heasder-logo {
@@ -46,3 +49,4 @@
     background-color: var(--color01);
     height: 500px;
 }
+  }
