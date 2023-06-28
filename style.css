@@ -10,7 +10,7 @@
 
 @media (min-width: 768px) {
 
-  .header {
+.header {
     background-color: var(--color01);
 }
 
@@ -48,5 +48,11 @@
 .header-section {
     background-color: var(--color01);
     height: 500px;
+    display: flex;
+}
+
+.header-container {
+  display: flex;
+  margin: 0 auto;
 }
   }
