@@ -54,5 +54,22 @@
 .header-container {
   display: flex;
   margin: 0 auto;
+  flex-direction: row;
+}
+
+.header-items {
+  display: flex;
+}
+.header-item {
+  padding: 5%;
+  list-style-type: none;
+}
+.title {
+  font-size: 5rem;
+}
+
+.header-img {
+  height: 25rem;
+  border-radius: 50%;
 }
   }
