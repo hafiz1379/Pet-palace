@@ -47,7 +47,7 @@
 
 .header-section {
     background-color: var(--color01);
-    height: 500px;
+    height: 700px;
     display: flex;
 }
 
@@ -60,16 +60,41 @@
 .header-items {
   display: flex;
 }
+
 .header-item {
   padding: 5%;
   list-style-type: none;
 }
+
 .title {
-  font-size: 5rem;
+  font-size: 13vw;
+  color: rgb(60, 60, 159);
+  line-height: 90%;
+  font-weight: bolder;
+  margin-bottom: 15px;
+}
+
+.header-text {
+  color: rgb(60, 60, 159);
+  font-size: 2vw;
 }
 
 .header-img {
-  height: 25rem;
+  width: 40vw;
   border-radius: 50%;
+}
+
+.header-btn {
+  width: 13vw;
+  height: 40px;
+  background-color: rgb(60, 60, 159);
+  border: none;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.btn-link {
+  color: #fff;
+  text-decoration: none;
 }
   }
