@@ -59,6 +59,7 @@
 
 .header-items {
   display: flex;
+  margin: 0 auto;
 }
 
 .header-item {
@@ -80,7 +81,7 @@
 }
 
 .header-img {
-  width: 40vw;
+  width: 35vw;
   border-radius: 50%;
 }
 
@@ -100,5 +101,17 @@
 
 .header-btn:hover {
   background-color: rgb(116, 162, 202);
+}
+
+.body-title {
+  color: rgb(60, 60, 159);
+  font-size: 4vw;
+}
+
+.body-text {
+  color: rgb(60, 60, 159);
+  font-size: 1.1vw;
+  line-height: 25px;
+  word-spacing: 3px;
 }
   }
