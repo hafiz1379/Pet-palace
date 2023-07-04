@@ -114,4 +114,9 @@
   line-height: 25px;
   word-spacing: 3px;
 }
+
+.service {
+  display: flex;
+  margin: 0 auto;
+}
   }
