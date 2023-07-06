@@ -119,4 +119,8 @@
   display: flex;
   margin: 0 auto;
 }
+
+.service-ul {
+  list-style-type: none;
+}
   }
