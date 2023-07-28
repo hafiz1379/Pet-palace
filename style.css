@@ -130,9 +130,9 @@
   }
 
   .service-ul {
-    width: fit-content;
+    width: 85%;
   }
-  
+
   #service-img {
     border-radius: 50%;
   }
