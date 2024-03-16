@@ -110,7 +110,7 @@
   .body-text {
     color: rgb(60, 60, 159);
     font-size: 1.1vw;
-    line-height: 25px;
+    line-height: 23px;
     word-spacing: 3px;
   }
 
@@ -130,7 +130,7 @@
   }
 
   .service-ul {
-    width:90%;
+    width:80%;
   }
 
   #service-img {
