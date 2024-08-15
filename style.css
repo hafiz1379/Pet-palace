@@ -142,5 +142,25 @@
     list-style-type: none;
   }
 
-  
+  .footer {
+    background-color: var(--color01);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
+
+  .footer-text {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .footer-link:hover {
+    text-decoration: underline;
+  }
 }
