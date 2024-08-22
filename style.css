@@ -163,4 +163,8 @@
   .footer-link:hover {
     text-decoration: underline;
   }
+
+  .footer-logo {
+    height: 50px;
+  }
 }
