@@ -174,4 +174,10 @@
     justify-content: center;
     align-items: center;
   }
+
+  .footer-item {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.2rem;
+  }
 }
