@@ -180,4 +180,8 @@
     padding: 10px;
     font-size: 1.2rem;
   }
+
+  .footer-item a {
+    text-decoration: none;
+  }
 }
