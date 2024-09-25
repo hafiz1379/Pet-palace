@@ -184,4 +184,8 @@
   .footer-item a {
     text-decoration: none;
   }
+
+  .footer-item a:hover {
+    color: #e34f4f;
+  }
 }
