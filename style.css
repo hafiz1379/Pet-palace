@@ -188,4 +188,10 @@
   .footer-item a:hover {
     color: #e34f4f;
   }
+
+  .footer-section {
+    background-color: var(--color01);
+    height: 700px;
+    display: flex;
+  }
 }
