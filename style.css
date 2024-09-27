@@ -194,4 +194,10 @@
     height: 700px;
     display: flex;
   }
+
+  .footer-container {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: row;
+  }
 }
