@@ -200,4 +200,9 @@
     margin: 0 auto;
     flex-direction: row;
   }
+
+  .footer-items {
+    display: flex;
+    margin: 0 auto;
+  }
 }
