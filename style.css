@@ -210,4 +210,12 @@
     padding: 2%;
     list-style-type: none;
   }
+
+  .footer-title {
+    font-size: 13vw;
+    color: rgb(60, 60, 159);
+    line-height: 90%;
+    font-weight: bolder;
+    margin-bottom: 15px;
+  }
 }
