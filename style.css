@@ -218,4 +218,9 @@
     font-weight: bolder;
     margin-bottom: 15px;
   }
+
+  .footer-text {
+    color: rgb(60, 60, 159);
+    font-size: 2vw;
+  }
 }
