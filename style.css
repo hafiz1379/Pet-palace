@@ -223,4 +223,9 @@
     color: rgb(60, 60, 159);
     font-size: 2vw;
   }
+
+  .footer-img {
+    width: 35vw;
+    border-radius: 50%;
+  }
 }
