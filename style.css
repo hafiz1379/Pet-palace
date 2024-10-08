@@ -237,4 +237,9 @@
     margin-top: 25px;
     margin-bottom: 10px;
   }
+
+  .btn-link {
+    color: #fff;
+    text-decoration: none;
+  }
 }
