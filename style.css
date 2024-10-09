@@ -242,4 +242,8 @@
     color: #fff;
     text-decoration: none;
   }
+
+  .footer-btn:hover {
+    background-color: rgb(116, 162, 202);
+  }
 }
