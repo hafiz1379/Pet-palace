@@ -251,4 +251,11 @@
     color: rgb(60, 60, 159);
     font-size: 3vw;
   }
+
+  .footer-text {
+    color: rgb(60, 60, 159);
+    font-size: 1.1vw;
+    line-height: 25px;
+    word-spacing: 3px;
+  }
 }
