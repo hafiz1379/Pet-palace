@@ -290,4 +290,8 @@
   .footer-service-item a {
     text-decoration: none;
   }
+
+  .footer-service-item a:hover {
+    color: #e34f4f;
+  }
 }
