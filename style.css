@@ -363,8 +363,4 @@
     display: flex;
     margin: 0 auto;
   }
-
-  .footer-service-ul {
-    list-style-type: none;
-  }
 }
