@@ -14,7 +14,14 @@
   }
 
   .header-logo {
-    height: 80px;
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 2rem;
+    color: #000;
+  }
+
+  .header-logo:hover {
+    color: #e34f4f;
+    cursor: pointer;
   }
 
   .header-items {
