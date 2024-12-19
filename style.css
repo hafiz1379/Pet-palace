@@ -507,4 +507,12 @@
     padding: 10px;
     font-size: 1.2rem;
   }
+
+  .footer-service-item a {
+    text-decoration: none;
+  }
+
+  .footer-service-item a:hover {
+    color: #e34f4f;
+  }
 }
