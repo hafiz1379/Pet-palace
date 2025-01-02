@@ -580,4 +580,8 @@
     justify-items: flex-start;
     flex-direction: column;
   }
+
+  .footer-service-ul {
+    width: 80%;
+  }
 }
