@@ -634,4 +634,8 @@
   .footer-service-ul {
     width: 80%;
   }
+
+  #footer-service-img {
+    border-radius: 50%;
+  }
 }
