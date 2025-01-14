@@ -643,4 +643,8 @@
     padding: 2%;
     list-style-type: none;
   }
+
+  .footer-service-item a {
+    text-decoration: none;
+  }
 }
