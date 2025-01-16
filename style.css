@@ -651,4 +651,10 @@
   .footer-service-item a:hover {
     color: #e34f4f;
   }
+
+  .footer-service-item {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.2rem;
+  }
 }
