@@ -715,4 +715,9 @@
   .footer-service-item a:hover {
     color: #e34f4f;
   }
+
+  .footer-service {
+    display: flex;
+    margin: 0 auto;
+  }
 }
