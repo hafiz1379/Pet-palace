@@ -720,14 +720,4 @@
     display: flex;
     margin: 0 auto;
   }
-
-  .footer-service-ul {
-    list-style-type: none;
-  }
-
-  .footer-service-items {
-    display: flex;
-    justify-items: flex-start;
-    flex-direction: column;
-  }
 }
