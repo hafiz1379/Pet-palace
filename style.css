@@ -738,4 +738,9 @@
   #footer-service-img {
     border-radius: 50%;
   }
+
+  .footer-service-item {
+    padding: 2%;
+    list-style-type: none;
+  }
 }
