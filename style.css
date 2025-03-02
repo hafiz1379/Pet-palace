@@ -47,6 +47,7 @@ body {
 
 .menu-items ul li a:hover {
   color: #007bff;
+  font-style: italic;
 }
 
 /* Header Section */
