@@ -255,4 +255,8 @@ body {
     width: 80px;
     height: 80px;
   }
+
+  .service-li h4 {
+    font-size: 16px;
+  }
 }
