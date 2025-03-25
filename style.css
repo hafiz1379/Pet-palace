@@ -259,4 +259,8 @@ body {
   .service-li h4 {
     font-size: 16px;
   }
+
+  .service-li p {
+    font-size: 12px;
+  }
 }
