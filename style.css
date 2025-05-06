@@ -263,4 +263,12 @@ body {
   .service-li p {
     font-size: 12px;
   }
+
+  .service-li button {
+    padding: 8px;
+  }
+
+  .service-li button:hover {
+    background-color: #004085;
+  }
 }
