@@ -271,4 +271,22 @@ body {
   .service-li button:hover {
     background-color: #004085;
   }
+
+  .header-section {
+    padding: 20px;
+  }
+
+  .header-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .header-item {
+    width: 100%;
+  }
+
+  .header-img {
+    width: 100%;
+    height: auto;
+  }
 }
