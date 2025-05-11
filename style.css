@@ -289,4 +289,8 @@ body {
     width: 100%;
     height: auto;
   }
+
+  .body-title {
+    font-size: 24px;
+  }
 }
