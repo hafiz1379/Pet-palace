@@ -293,4 +293,12 @@ body {
   .body-title {
     font-size: 24px;
   }
+
+  .body-text {
+    font-size: 14px;
+  }
+
+  .service-title {
+    font-size: 24px;
+  }
 }
